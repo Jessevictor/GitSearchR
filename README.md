@@ -1,11 +1,7 @@
 # GitSearch
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
 
-
-## Codebeat
-
-[![codebeat badge](https://codebeat.co/badges/3c7661e8-bb2b-49fe-9efb-d0270755bb27)](https://codebeat.co/projects/github-com-monicaoyugi-gitsearch-master)
 
 ## Development server
 
@@ -46,5 +42,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 [License](License) 
 
 
-__Copyright (c) {2020}  Monica Oyugi.__
+__Copyright (c) {2020}  Jesse Victor.__
 
