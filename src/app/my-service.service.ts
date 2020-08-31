@@ -1,6 +1,6 @@
 import {Injectable} from '@angular/core';
 import {HttpClient} from '@angular/common/http';
-import {environment} from '../environments/environment';
+// import {environment} from '../environments/environment';
 import {GitUser} from './git-user';
 import {SearchUserComponent} from './search-user/search-user.component';
 import {Observable} from 'rxjs';
